@@ -1,7 +1,9 @@
 # Add-in-IEEE-754-format
 C++ code
 
-Example input test file:
+Read input from text file
+
+Example input test file
 1 0x40280000 0x3f900000 0x40700000
 2 0xc0280000 0xbf900000 0xc0700000
 3 0x40280000 0xbf900000 0x3fc00000
